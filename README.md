@@ -1,4 +1,4 @@
-# WordPress ROT13 Email Obfuscator Shortcode
+# WordPress ROT13 Email Obfuscator Plugin
 
 Welcome to the ROT13 Email Obfuscator plugin repository on GitHub. This plugin creates a shortcode for an easy-to-use substitution cipher for `mailto:` links. 
 
