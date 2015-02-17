@@ -1,8 +1,8 @@
 # WordPress ROT13 Email Obfuscator Plugin
 
-Welcome to the ROT13 Email Obfuscator plugin repository on GitHub. This plugin creates a shortcode for an easy-to-use substitution cipher for `mailto:` links. 
+Welcome to the ROT13 Email Obfuscator plugin repository on GitHub. This plugin provides an easy-to-use [ROT13 substitution cipher](http://en.wikipedia.org/wiki/ROT13) WordPress shortcode for `mailto:` links. This is arguably the most effective method for preventing spam, while still allowing `mailto:` links.
 
-The included shortcode helps prevent your email addresses from being harvested by spam-bots. It rests on JavaScript and includes a pure CSS fallback. 
+The included shortcode helps prevent harvesting of email addresses by spam-bots. It rests on JavaScript and includes a pure CSS fallback. 
 
 ## Usage
 
